@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Penjualan Hewan Ternak</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="input_error_name">Tambahkan nama</string>
+    <string name="input_error_email">Tambahkan Email</string>
+    <string name="input_error_password">Tambahkan Password</string>
+    <string name="input_error_password_length">Password Harus 8 Karakter / Lebih</string>
+    <string name="registration_success">Pendaftaran Berhasil</string>
+    <string name="input_error_email_invalid">Masukan Email Yang Benar</string>
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <string name="settings_file_name">com.example.nanodg.tambalban.temp</string>
+    <string-array name="PilihanBan">
+        <item>Ayam</item>
+        <item>Itik</item>
+    </string-array>
+    <string-array name="PilihanKen">
+        <item>Potong</item>
+        <item>Kampung</item>
+    </string-array>
+</resources>

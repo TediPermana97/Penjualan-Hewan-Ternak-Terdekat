@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215139460155",
+    "firebase_url": "https://jualternakapp-default-rtdb.firebaseio.com",
+    "project_id": "jualternakapp",
+    "storage_bucket": "jualternakapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215139460155:android:a6566106a1ece99660281e",
+        "android_client_info": {
+          "package_name": "com.example.nanodg.tambalban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215139460155-5pk1e3u91obgffh2cnnrigrhcau1iihr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nanodg.tambalban",
+            "certificate_hash": "b74d2c8910e149eb5712b0e9fb242c9c2c4d1469"
+          }
+        },
+        {
+          "client_id": "215139460155-llirogvskitpmnahfht1q1ghaul60v86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfvYChOrx4Td-soMwIWRuxmhX3--Qq9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215139460155-llirogvskitpmnahfht1q1ghaul60v86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
